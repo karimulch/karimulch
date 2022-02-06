@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karimulch
 - 👀 I’m interested in Python, R and SQL
-- 💞️ I’m looking to collaborate on Data Management and Analytics teams
+- 💞️ I’m looking for internships in Data Science and Engineering feilds
 - 📫 How to reach me kariishma82@gmail.com
 
 <!---
